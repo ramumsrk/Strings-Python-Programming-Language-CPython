@@ -1,0 +1,36 @@
+Tuesday, July 16, 2024 16:06:43 IST +0530 | root | DEBUG | Module name is __name__='logging_configuration'
+Tuesday, July 16, 2024 16:06:43 IST +0530 | root | DEBUG | File constituting module is __file__='/run/media/ramumsrk/1.0TiB/Strings-Python-Programming-Language-CPython/How-Python-s-String-Interning-Works/src/logging_configuration/__init__.py'
+Tuesday, July 16, 2024 16:06:43 IST +0530 | root | DEBUG | Module name is: __name__='__main__'
+Tuesday, July 16, 2024 16:06:43 IST +0530 | root | DEBUG | File constituting module is __file__='/run/media/ramumsrk/1.0TiB/Strings-Python-Programming-Language-CPython/How-Python-s-String-Interning-Works/src/example_automatic_interning_of_string_literals.py'
+Tuesday, July 16, 2024 16:06:43 IST +0530 | root | DEBUG | Inside user-defined function 'main()'
+Tuesday, July 16, 2024 16:06:43 IST +0530 | root | DEBUG | id(first_string_literal)=140420975078448
+Tuesday, July 16, 2024 16:06:43 IST +0530 | root | DEBUG | id(second_string_literal)=140420975078448
+Tuesday, July 16, 2024 16:06:43 IST +0530 | root | DEBUG | first_string_literal is second_string_literal=True
+Tuesday, July 16, 2024 16:06:43 IST +0530 | root | DEBUG | Exiting user-defined function 'main()'
+Tuesday, July 16, 2024 16:06:43 IST +0530 | root | DEBUG | main()=None
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | Module name is __name__='logging_configuration'
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | File constituting module is __file__='/run/media/ramumsrk/1.0TiB/Strings-Python-Programming-Language-CPython/How-Python-s-String-Interning-Works/src/logging_configuration/__init__.py'
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | Module name is: __name__='__main__'
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | File constituting module is __file__='/run/media/ramumsrk/1.0TiB/Strings-Python-Programming-Language-CPython/How-Python-s-String-Interning-Works/src/example_automatic_interning_of_short_strings.py'
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | Inside user-defined function 'main()'
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | id(first_string_literal)=139858535689264
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | id(second_string_literal)=139858535689264
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | first_string_literal is second_string_literal=True
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | id(third_string_literal)=139858294110800
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | id(fourth_string_literal)=139858294110800
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | third_string_literal is fourth_string_literal=True
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | Exiting user-defined function 'main()'
+Tuesday, July 16, 2024 17:57:33 IST +0530 | root | DEBUG | main()=None
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | Module name is __name__='logging_configuration'
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | File constituting module is __file__='/run/media/ramumsrk/1.0TiB/Strings-Python-Programming-Language-CPython/How-Python-s-String-Interning-Works/src/logging_configuration/__init__.py'
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | Module name is: __name__='__main__'
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | File constituting module is __file__='/run/media/ramumsrk/1.0TiB/Strings-Python-Programming-Language-CPython/How-Python-s-String-Interning-Works/src/example_manual_interning_with_sys_intern.py'
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | Inside user-defined function 'main()'
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | id(first_string_literal)=140038576188464
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | id(second_string_literal)=140038576188464
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | first_string_literal is second_string_literal=True
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | id(third_string_literal)=140038334233168
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | id(fourth_string_literal)=140038334233168
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | third_string_literal is fourth_string_literal=True
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | Exiting user-defined function 'main()'
+Tuesday, July 16, 2024 18:08:06 IST +0530 | root | DEBUG | main()=None
