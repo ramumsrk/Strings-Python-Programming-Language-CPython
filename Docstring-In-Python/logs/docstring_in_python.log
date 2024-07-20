@@ -1,0 +1,14 @@
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | Module name is: __name__='logging_configuration'
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | File constituting module is: __file__='/run/media/ramumsrk/1.0TiB/Python-Programming-Language-CPython/Strings-Python-Programming-Language-CPython/Docstring-In-Python/src/logging_configuration/__init__.py'
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | Module name is: __name__='example_of_using_a_docstring_in_python'
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | File constituting module is: __file__='/run/media/ramumsrk/1.0TiB/Python-Programming-Language-CPython/Strings-Python-Programming-Language-CPython/Docstring-In-Python/src/example_of_using_a_docstring_in_python/__init__.py'
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | Module name is: __name__='example_of_using_a_docstring_in_python.add_two_numbers'
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | File constituting module is: __file__='/run/media/ramumsrk/1.0TiB/Python-Programming-Language-CPython/Strings-Python-Programming-Language-CPython/Docstring-In-Python/src/example_of_using_a_docstring_in_python/add_two_numbers/__init__.py'
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | Module name is __name__='__main__'
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | File constituting module is __file__='/run/media/ramumsrk/1.0TiB/Python-Programming-Language-CPython/Strings-Python-Programming-Language-CPython/Docstring-In-Python/src/main_docstring_in_python.py'
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | Inside user-defined function 'main()'
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | add_two_numbers.__doc__='\n  Determine sum of two numbers which are of type either int or float\n\n  Input:\n  ======\n  first_number: int | float First number\n  second_number: float | int Second number\n\n  Output:\n  =======\n  int | float Sum of two numbers\n  '
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | add_two_numbers=<function add_two_numbers at 0x7fbf601c6de0>
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | type(add_two_numbers)=<class 'function'>
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | Exiting user-defined function 'main()'
+Saturday, July 20, 2024 08:58:12 1721446092 IST +0530 | root | DEBUG | main()=None
